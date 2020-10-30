@@ -1,1 +1,1 @@
-# laravel-nuxt-fe
+# laravel-nuxt-ssr-fe
